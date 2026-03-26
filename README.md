@@ -39,3 +39,5 @@ Browser (Chrome/Edge)
 CONCLUSION
 
 The Real-Time Collaborative Document Editor demonstrates the power of modern web development technologies in building interactive and scalable applications. By integrating React for the frontend, Node.js for the backend, Socket.IO for real-time communication, and MongoDB for data storage, the project showcases a complete full-stack solution. This system can be further enhanced by adding authentication, user roles, cloud deployment, and advanced collaboration features, making it suitable for real-world production use.
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c45bf004-d8fe-4062-b8b0-8dcc853fb581" />
